@@ -2,7 +2,7 @@
 title: "Chelsea FC"
 description: "This post is about Chelsea FC and its history and players during the years."
 publishDate: "10 Dec 2023"
-tags: ["test"]
+tags: ["Sports"]
 draft: false
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: "Real Madrid"
-description: "This post is for testing the draft post functionality"
+description: "This post is about Real Madrid and its history and players during the years."
 publishDate: "9 Dec 2023"
 tags: ["Sports"]
 draft: false
 ---
 
 
-# Real Madrid: The Kings of Europe
+# Real Madrid
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" alt="RMlogo" width="262" height="300"/>
 

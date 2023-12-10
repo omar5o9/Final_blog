@@ -1,8 +1,8 @@
 ---
 title: "AC Milan"
-description: "This post is for testing the draft post functionality"
-publishDate: "10 Sept 2023"
-tags: ["test"]
+description: "This post is about AC Milan and its history and players during the years."
+publishDate: "9 Dec 2023"
+tags: ["Sports"]
 draft: false
 ---
 
