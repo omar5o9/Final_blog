@@ -1,14 +1,14 @@
 ---
 title: "Chelsea FC"
-description: "This post is for testing the draft post functionality"
-publishDate: "10 Sept 2023"
+description: "This post is about Chelsea FC and its history and players during the years."
+publishDate: "10 Dec 2023"
 tags: ["test"]
 draft: true
 ---
 
-<div style="background: linear-gradient(to bottom, blue, white); padding: 10px;">
 
-#  The History of Chelsea FC
+
+# The History of Chelsea FC
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png" alt="CLogo" width="300" height="300"/>
 
