@@ -3,7 +3,7 @@ title: "Real Madrid"
 description: "This post is for testing the draft post functionality"
 publishDate: "9 Dec 2023"
 tags: ["Sports"]
-draft: true
+draft: false
 ---
 
 
